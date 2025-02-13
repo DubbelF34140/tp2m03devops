@@ -2,6 +2,7 @@
   "name": "tp2m03devops",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dubbelf34140.github.io/tp2m03devops",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
